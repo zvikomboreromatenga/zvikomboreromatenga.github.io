@@ -6,6 +6,8 @@ title: About me
 
 I'm currently a Data Science Manger at Molson Coors Beverage Company. I was previously a Sr. Data Scientist at GE Healthcare. I hold a Ph.D. dual-title degree in Industrial Engineering and Operations Research with a graduate minor in Statistics from Pennsylvania State University (PA). My research interests are in energy markets, game theory, developing economies, time series, machine learning, and econometrics.
 
+## Research Areas:
+
 ## Data Science Consulting
 
 
