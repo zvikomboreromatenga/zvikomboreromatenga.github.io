@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm currently a Data Science Manger at Molson Coors Beverage Company. I was previously a Sr. Data Scientist at GE Healthcare. I hold a Ph.D. dual-title degree in Industrial Engineering and Operations Research with a graduate minor in Statistics from Pennsylvania State University (PA). My research interests are in energy markets, game theory, developing economies, time series, machine learning, and econometrics.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
