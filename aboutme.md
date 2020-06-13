@@ -11,9 +11,9 @@ I'm currently a Data Science Manger at Molson Coors Beverage Company. I was prev
 ## Profiles
 
 ## Education
-   - Ph.D (2019) , Industrial Engineering and Operations Research, The Pennsylvania State University
-   - Msc (2018) ,  Industrial Engineering and Operations Research, The Pennsylvania State University
-   - BA (2013) , Mathematics and Chemistry,  Wesleyan University (CT)
+   - Ph.D (2019) , [Industrial Engineering and Operations Research, The Pennsylvania State University](https://www.ime.psu.edu/)
+   - Msc (2018) ,  [Industrial Engineering and Operations Research, The Pennsylvania State University](https://www.ime.psu.edu/)
+   - BA (2013) , Mathematics and Chemistry,  [Wesleyan University (CT)](https://www.wesleyan.edu/)
 
 
 
