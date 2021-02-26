@@ -10,7 +10,6 @@ I'm currently a Data Science Manger at [Molson Coors Beverage Company](https://w
 
 ## Profiles
 [GoogleScholar](https://scholar.google.com/citations?user=4ftOp-EAAAAJ&hl=en)
-
 [LinkedIn](https://www.linkedin.com/in/zvikomboreromatenga/)
 ## Education
    - Ph.D (2019) , Industrial Engineering and Operations Research, [The Pennsylvania State University](https://www.ime.psu.edu/)
