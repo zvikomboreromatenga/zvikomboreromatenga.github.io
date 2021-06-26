@@ -4,6 +4,6 @@ title: Data Science
 #subtitle: 
 ---
 
-I'm currently a Data Science Manger at Molson Coors Beverage Company. I was previously a Sr. Data Scientist at GE Healthcare. 
+I'm currently a Senior AI Scientist at Target. I was previously Data Science Manger at Molson Coors Beverage Company. 
 
 ## Data Science Consulting
